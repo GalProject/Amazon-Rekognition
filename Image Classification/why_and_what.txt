@@ -10,4 +10,4 @@ d) publish the results
 01 - list images from s3 - list_all_images
 02 - process the images - process_each_image
 03 - store the labels inside a json file - store_process_images
-04 - display the result from the json file
+04 - display the result from the json file - display_image_classification
