@@ -1,0 +1,2 @@
+This is the link:
+https://docs.aws.amazon.com/cli/latest/reference/rekognition/index.html#cli-aws-rekognition

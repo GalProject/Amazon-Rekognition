@@ -1,0 +1,13 @@
+Another cool service of Amazon Rekognition is Image Classification
+in this service, we can classification the image by the content of the image
+To use this service on Amazon Rekognition you must to
+a) upload a group of images to S3 Bucket
+b) process each image with services such as Object Detection and Scene
+c) store the detected labels for each image
+d) publish the results
+
+
+01 - list images from s3 - list_all_images
+02 - process the images - process_each_image
+03 - store the labels inside a json file - store_process_images
+04 - display the result from the json file

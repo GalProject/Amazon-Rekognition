@@ -1,0 +1,7 @@
+There are different ways to work with Amazon Rekognition
+Cloud9
+this service already includes the SDK of Amazon and you don't need to use with any keys.
+How to Install Cloud9
+Go to Amazon Console account (you need a credit card)->Go to Cloud9->Add new environment (In this way you don't need to .sh files)
+Locally
+with the bash scripts (installAWSCLI.sh and uninstallAWSCLI.sh and awsConfigure.sh) you can run it locally

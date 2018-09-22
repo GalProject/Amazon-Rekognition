@@ -1,0 +1,4 @@
+to use with image processing on Amazon Rekognition you have to Create S3 Bucket (to store all your images)
+How to Create S3 Bucket?
+a) //TOOD: to create it from aws-cli
+b) Go to Amazon Console account->Go to S3->Create new bucket->insert images
